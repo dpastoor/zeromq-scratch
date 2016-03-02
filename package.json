@@ -1,0 +1,22 @@
+{
+  "name": "zeromq-scratch",
+  "version": "1.0.0",
+  "description": "zeromq scratch =================",
+  "main": "node-client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dpastoor/zeromq-scratch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dpastoor/zeromq-scratch/issues"
+  },
+  "homepage": "https://github.com/dpastoor/zeromq-scratch#readme",
+  "dependencies": {
+    "zmq": "^2.14.0"
+  }
+}
